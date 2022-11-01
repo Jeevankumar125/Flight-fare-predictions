@@ -1,5 +1,4 @@
-# Flight-fare-predictions
-# Flight Fare Prediction: 
+# Flight-fare-predictions 
 
 ## Table of Content
   * [Demo](#demo)
